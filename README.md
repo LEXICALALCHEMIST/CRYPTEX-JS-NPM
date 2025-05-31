@@ -1,0 +1,2 @@
+# CRYPTEX-JS-NPM
+CyrptexJS is a symbolic, shape-driven programming interface built on top of JavaScript. It extends standard syntax but offloads logic execution into a non-numerical ZetaMorph engine, designed to:  Fracture numeric and logical expressions into shape objects  Route logic through a distributed symbolic mesh  Collapse computation results into symbolically enriched payloads  Enable execution on any connected device, no internet required.
